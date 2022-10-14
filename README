@@ -5,12 +5,9 @@ You need to import the database file in the admin folder and then put the app fo
 give full permission so that there will be no problems while saving the  images
 
 
-If  you imported database then thereis data that willhelp to enter the website
+If  you imported database then there is data that will help to enter the website
 
 Admin:
-email: ruainpro@gmail.com   pasword: ruainpro
-
-new_user:
  email: aa@gmail.com  password: aa
  
  
