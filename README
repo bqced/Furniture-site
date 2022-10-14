@@ -1,0 +1,20 @@
+
+In order to use the website:
+
+You need to import the database file in the admin folder and then put the app folderin htdocs and 
+give full permission so that there will be no problems while saving the  images
+
+
+If  you imported database then thereis data that willhelp to enter the website
+
+Admin:
+email: ruainpro@gmail.com   pasword: ruainpro
+
+new_user:
+ email: aa@gmail.com  password: aa
+ 
+ 
+ 
+ https://localhost/Furniture/  =    Homepage
+ 
+ https://localhost/Furniture/admin  = Login page of admin
